@@ -1,7 +1,10 @@
-## Hi there 👋
+## 醒醒，该学习啦 👋
+
+所以，这是我学习的一个组织啦～
+
+希望自己的技术更上一层楼，加油！
 
 <!--
-
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
